@@ -53,4 +53,4 @@ Continued use of the App after such changes constitutes acceptance of the revise
 
 For any questions or issues related to these Terms, please contact:
 
-📧 **dev@eutopiantech.com**
+📧 **support@eutopiantech.com**
