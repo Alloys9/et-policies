@@ -2,7 +2,7 @@
 
 _Last updated: October 2025_
 
-By using the Kv POS System ("the App"), you agree to the following Terms of Service.  
+By using the KvPOS System ("the App"), you agree to the following Terms of Service.  
 Please read these terms carefully before using the App.
 
 ---
