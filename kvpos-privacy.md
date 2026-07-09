@@ -75,6 +75,6 @@ Any changes will be reflected in this document, and the updated date will be rev
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-📧 **[support@eutopiantech.com](mailto:support@eutopiantech.com)**
+📧 **[dev@eutopiantech.com](mailto:dev@eutopiantech.com)**
 
 ---

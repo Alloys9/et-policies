@@ -19,4 +19,4 @@ It’s designed for offline and online use, with optional integrations for futur
 - [Privacy Policy](kvpos-privacy)
 - [Terms of Service](kvpos-terms)
 
-For any issues or inquiries, contact us at [support@eutopiantech.com](mailto:support@eutopiantech.com).
+For any issues or inquiries, contact us at [dev@eutopiantech.com](mailto:dev@eutopiantech.com).
